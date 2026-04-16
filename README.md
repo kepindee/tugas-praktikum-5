@@ -1,4 +1,4 @@
-# Tugas PBO PPraktikum-5
+# Tugas PBO Praktikum-5
 
 ## Pemrograman Berorientasi Objek
 
